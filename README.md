@@ -16,3 +16,5 @@ Save after editing and goto the github app. On the very top middle of the app yo
 Please work together to collab on all changes to make them reasonable for what the upcoming update has to offer.
 
 I suggest working on a few catagories at a time so everyone else can collab on them and then move on.
+
+Make sure you are using the TESTING branch for all work. Keep the master for current server settings. Dont touch master.
