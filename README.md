@@ -1,6 +1,5 @@
 # EGCDayZ
 
-2
 
 Admin collaberation for the EGCDayZ Server files.
 
@@ -12,6 +11,8 @@ Once logged in goto https://github.com/lilkev2477/EGCDayZ and find the green tab
 
 Using the app, you can open and edit the file using a text editor, I use https://code.visualstudio.com/ or notepad++.
 
-Save after editing and goto the ghithub app. On the very top middle of the app you can either save and upload the changes you made by using 'changes' and adding a summary and description. OR view recent changes by others under the 'changes tab'. It will show all changes done buy other collaborators. This will help to keep track of changes and who made them. 
+Save after editing and goto the github app. On the very top middle of the app you can either save and upload the changes you made by using 'changes' and adding a summary and description. OR view recent changes by others under the 'changes tab'. It will show all changes done buy other collaborators. This will help to keep track of changes and who made them. 
 
 Please work together to collab on all changes to make them reasonable for what the upcoming update has to offer.
+
+I suggest working on a few catagories at a time so everyone else can collab on them and then move on.
