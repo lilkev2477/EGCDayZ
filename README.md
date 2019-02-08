@@ -7,7 +7,7 @@ Install https://desktop.github.com/
 
 log into the app
 
-Once logged in goto https://github.com/lilkev2477/EGCDayZ and find the green tab to clone to desktop. Save it to a folder that you will remember to work in for this or future projects. 
+Once logged in goto https://github.com/lilkev2477/EGCDayZ and make sure that you are using the 'Testing' branch instead of 'Master' then find the green tab to clone to desktop. Save it to a folder that you will remember to work in for this or future projects. 
 
 Using the app, you can open and edit the file using a text editor, I use https://code.visualstudio.com/ or notepad++.
 
@@ -18,3 +18,5 @@ Please work together to collab on all changes to make them reasonable for what t
 I suggest working on a few catagories at a time so everyone else can collab on them and then move on.
 
 Make sure you are using the TESTING branch for all work. Keep the master for current server settings. Dont touch master.
+
+Ill make these more simple later once I have more time. Kev
