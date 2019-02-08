@@ -9,7 +9,9 @@ Install https://desktop.github.com/
 
 log into the app
 
-Once logged in goto https://github.com/lilkev2477/EGCDayZ and make sure that you are using the 'Testing' branch instead of 'Master' then find the green tab to clone to desktop. Save it to a folder that you will remember to work in for this or future projects. 
+Once logged in goto https://github.com/lilkev2477/EGCDayZ and make sure that you are using the 'Testing' branch instead of 'Master'. Branch settings are towards the top left using a dropdown. Testing is for WIP and Master is for Main.  
+
+Find the green tab to clone to desktop. Save it to a folder that you will remember to work in for this or future projects. 
 
 Using the app, you can open and edit the file using a text editor, I use https://code.visualstudio.com/ or notepad++.
 
