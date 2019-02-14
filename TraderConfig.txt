@@ -1322,9 +1322,7 @@
 		OffroadHatchback,		V,		10000,	5000
 		V3S_Chassis,			V,		20000,	10000
 		dbojeepB,				V,		30000,	15000
-		dbojeep4s,				V,		35000,	15500
-		uaz_car_sobakenl, 		V, 		35550, 	15600
-	
+		
 	<Category> Vehicle Parts
 		HeadlightH7_Box,		*,		30,		15
 		SparkPlug,				*,		60,		40
