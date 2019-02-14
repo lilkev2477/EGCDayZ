@@ -286,7 +286,8 @@
 		Mac10,					*,		1100,	500	
 		
 	<Category> Assault Rifles
-		AKM,					*,		1500,	750	
+	SKS,					*,		1500,	800	
+		AKM,					*,		2500,	1250	
 		// bT AKMS
         AKM_Blue,				*,		2500,	1250	
         AKM_Red,				*,		2500,	1250	
@@ -314,7 +315,7 @@
         AKM_Camo19,				*,		2500,	1250	
         AKM_Camo20,				*,		2500,	1250	
         AKM_Camo21,				*,		2500,	1250																		
-		M4A1,					*,		1500,	750	
+		M4A1,					*,		2500,	1250	
 		MassM4A1,				*,		2000,	1000
 		// bT N4A1s
         M4A1_Universum2,		*,		2500,	1250
@@ -466,6 +467,7 @@
 		AK_WoodBttstck,			*,		150,	75
 		AK_FoldingBttstck,		*,		200,	125
 		M4_OEBttstck,			*,		150,	75
+		Saiga_Bttstck,			*,		150,	75
 		Fal_FoldingBttstck,			*,		200,	100
 		Fal_OeBttstck,			*,		200,	100
 	
