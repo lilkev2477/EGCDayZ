@@ -252,17 +252,16 @@
 		NailedBaseballBat,		*,		45,		20
 		
 	<Category> Sidearms
-		MakarovIJ70,			*,		100,		50
-		gp_P1,				*,		100,		50
-		gp_MKII,			*,		100,		50				
-		CZ75,				*,		135,		70
-		Glock18,			*,		135,		70
-		gp_Glock19,			*,		135,		70						
-		FNX45,				*,		175,		80
-		GP_Colt1911,			*,		180,		90
-		GP_Colt1911Engraved,	        *,		190,		90				
-		
-		gp_LongHorn,			*,		500,            25 
+		MakarovIJ70,			*,		250,		75
+		gp_P1,				*,		250,		75
+		gp_MKII,			*,		150,		25				
+		CZ75,				*,		300,		125
+		gp_Glock19,			*,		300,		125						
+		FNX45,				*,		350,		150
+		GP_Colt1911,			*,		300,		125
+		GP_Colt1911Engraved,	        *,		500,		200				
+		gp_LongHorn,			*,		500,            200
+		Glock18,			*,		800,		350
 		gp_DE,				*,		1000            500 
 	   	
 	<Category> Shotguns
@@ -276,13 +275,12 @@
 		CZ61,				*,		700,		300
 		UMP45,				*,		800,		350
 		MP5K,				*,		1000,		450		
-		gp_miniuzi,			*,		1100,		500	
-		G36, 				*,		1100,		500	
+		gp_miniuzi,			*,		1100,		500		
 		Mac10,				*,		1100,		500	
 		
 	<Category> Assault Rifles
 	SKS,					*,		1500,		800	
-		AKM,				*,		2500,		1250	
+	AKM,					*,		2500,		1250	
 		// bT AKMS
         AKM_Blue,				*,		2500,		1250	
         AKM_Red,				*,		2500,		1250	
@@ -340,13 +338,13 @@
         M4A1_Camo19,		               	*,		2500,		1250
         M4A1_Camo20,		  	 	*,		2500,		1250
         M4A1_Camo21,	    			*,		2500,		1250																	
-		gp_AKs74U,			*,		1500,		750
-		gp_AK74,			*,		2500,		1400	
-		MassPpskn,			*,		3000,		1500
-		gp_AK101,			*,		1500,		750																	
-		GP_Fal,				*,		2000,		1000
-		gp_AugSteyr,			*,		2000,		1000	
-		gp_M249,			*,		3500,		1700			
+		gp_AKs74U,			*,		2500,		1350
+		gp_AK74,			*,		2500,		1350	
+		MassPpskn,			*,		4000,		2000
+		gp_AK101,			*,		2500,		1350								G36, 				*,		2500,		1350						
+		GP_Fal,				*,		3000,		1500
+		gp_AugSteyr,			*,		2500,		1350	
+		gp_M249,			*,		5000,		2500			
 		
 	//<Category> Light Machine Guns
 		
@@ -354,25 +352,22 @@
 	<Category> DMR
 		gp_Trumpet,			*,		100,		50
 		SVD,				*,		2000,		1000
-		Mosin9130,			*,		400,		200
-		leeenfield,			*,		600,		300
-		// bT Mosins
-                Mosin9130_Royale,		*,		1000,		500	
-                Mosin9130_Royale2,	        *,		1000,		500		
-		
-		
-	<Category> Bolt action
-		Mosin9130,			*,		400,		200
-		CZ527,				*,		1500,		700
-		gp_Scout,			*,		2500,		1700	
-		MassScout556,			*,		2500,		1700	
-				
-		gp_VSS,				*,		2500,		1700
+		gp_VSS,				*,		2500,		1350
 		MassKivaari,			*,		3000,		1500
-		gp_Blaze95,			*,		5000,		2500 
-		Massm300,			*,		-1,		7000
 		Airdrops Only Below,		*,		-1,		0
 		m14,				*,		-1,		3000	
+		
+	<Category> Bolt/Brake Action
+		gp_Blaze95,			*,		500,		250 
+		Mosin9130,			*,		1000,		500
+		leeenfield,			*,		1200,		600
+		CZ527,				*,		1500,		700
+		gp_Scout,			*,		2500,		1350
+		MassScout556,			*,		2500,		1350	
+		Mosin9130_Royale,		*,		3000,		1500	
+                Mosin9130_Royale2,	        *,		3000,		1500	
+		Massm300,			*,		-1,		10000
+		Airdrops Only Below,		*,		-1,		0
 		m24,				*,		-1,    	        3000	
 		gp_Winchester70,		*,		-1,		3000
 
@@ -477,26 +472,32 @@
 		Fal_FoldingBttstck,		*,		200,		100
 		Fal_OeBttstck,			*,		200,		100
 	
-	<Category> Optics
+	<Category> Optics/Rear Sights 
 		M4_CarryHandleOptic,		*,		150,		60
-		ACOGOptic,			*,		300,		120
-		M68Optic,			*,		500,		200
+		BUISOptic,                      *,		200,		75
+		M68Optic,			*,		300,		120
+		M4_T3NRDSOptic,			*,		350,		150
+		ReflexOptice,			*,		400,		180
+		ACOGOptic,			*,		500,		200
 		KobraOptic,			*,		600,		250
 		PUScopeOptic,			*,		900,		500		
 		PSO1Optic,			*,		1100,		600	
 		MassScoutLRS,			*,		1100,		600	
 		HuntingOptic,			*,		1100,		600		
 		LongrangeOptic,			*,		1200,		600
+		MosinLRS,			*,		1200,		600
 		PistolOptic,			*,		200,		100			
 	
 	<Category> Supressors
 		PistolSuppressor,		*,		150,		75
 		AK_Suppressor,			*,		250,		125
 		M4_Suppressor,			*,		250,		125
+		Shotgun_Suppressor,		*,		300,		125 
 		MassScoutSuppressor,		*,		300,		150
 		
 	<Category> Compensators
 		MP5_Compensator,		*,		200,		100
+		Mosin_Compensator,		*,		300,		150
 	
 
 <Trader> Clothing Trader
