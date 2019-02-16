@@ -1,0 +1,70 @@
+{
+    "m_Loot": [
+        "gp_Winchester70",
+        "SledgeHammer",
+        "AKM_Golden",
+        "HuntingOptic",
+        "AmmoBox_308Win_20Rnd",
+        "LargeTent",
+		"m24",
+		"m14",
+		"M4A1_Gold",
+		"FieldShovel",
+		"GhillieBushrag_Woodland",
+		"GhillieHood_Woodland",
+		"GhillieSuit_Woodland",
+		"GhillieTop_Woodland",
+		"LandMineTrap"
+    ],
+    "m_AirDropPlaces": [
+        {
+            "x": 4807,
+            "y": 9812,
+            "name": "northwest airfield",
+            "disclose": 0,
+            "send_proximity": 0
+        },
+        {
+            "x": 2351,
+            "y": 5393,
+            "name": "zelenogorks",
+            "disclose": 0,
+            "send_proximity": 0
+        },
+        {
+            "x": 2036,
+            "y": 7491,
+            "name": "myshkino",
+            "disclose": 0,
+            "send_proximity": 0
+        },
+        {
+            "x": 2700,
+            "y": 6193,
+            "name": "sosnovka",
+            "disclose": 0,
+            "send_proximity": 0
+        },
+        {
+            "x": 7436,
+            "y": 7720,
+            "name": "novy sobor",
+            "disclose": 0,
+            "send_proximity": 0
+        },
+        {
+            "x": 5823,
+            "y": 7764,
+            "name": "stary sobor",
+            "disclose": 0,
+            "send_proximity": 0
+        }
+    ],
+    "m_Interval": 30,
+    "m_Initial": 30,
+    "m_Items": 8,
+    "m_Infected": 15,
+    "m_Speed": 1,
+    "m_Height": 300,
+    "m_Mass": 10
+}
