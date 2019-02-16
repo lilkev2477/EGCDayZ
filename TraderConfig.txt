@@ -19,7 +19,7 @@
 
 <Trader> Consume Trader								// Trader Name (first Trader has ID = 0, second Trader has ID = 1, and so on..)
 	<Category> Vegetables							// Category Name
-		Apple,					*,		1,		0	// Item Classname, Quantity, Buyvalue, Sellvalue (Quantity * means max value; Quantity V means Vehicle; Quantity M means Magazine)
+		Apple,				*,		1,		0	// Item Classname, Quantity, Buyvalue, Sellvalue (Quantity * means max value; Quantity V means Vehicle; Quantity M means Magazine)
 		GreenBellPepper,		*,		1,		0
 		Pear,				*,		5,		0
 		Plum,				*,		10,		0
