@@ -1330,8 +1330,14 @@
 <Trader> Vehicles Trader
 	<Category> Vehicles
 		OffroadHatchback,		V,		10000,		5000
-		V3S_Chassis,			V,		20000,		10000
-		dbojeepB,			V,		30000,		15000
+		//V3S_Chassis,			V,		20000,		10000		Not working Need to fix 
+		dbojeepB,			V,			30000,		15000
+		--------------------------------------------,	V,	0,	0
+		The Buhanka parts are not yet persistent,	 V, 	0,  	0
+		..But the vehicle itself is,	V,		0,		0
+		...Consider storing the parts unattached until a fix,	V,		0,		0
+		uaz_car_sobakenl,	V,			15000,		7500
+		--------------------------------------------,	V,	0,	0
 		
 	<Category> Vehicle Parts
 		HeadlightH7_Box,		*,		30,		15
