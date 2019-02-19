@@ -262,10 +262,10 @@
 		GP_Colt1911Engraved,	        *,		500,		200				
 		gp_LongHorn,			*,		500,            200
 		Glock18,			*,		800,		350
-		gp_DE,				*,		1000            500 
+		gp_DE,				*,		1000,           500 
 	   	
 	<Category> Shotguns
-	        gp_shotgunlzh43,		*,		500,		250
+	        //gp_shotgunlzh43,		*,		500,		250	//Not spawning 
 		Mp133Shotgun,			*,		750,		350
 		Massarmsan,		        *,		1000,		450
 		gp_Saiga12kShotgun,		*,		1500,		650		
@@ -366,7 +366,7 @@
 		gp_Scout,			*,		2500,		1350
 		MassScout556,			*,		2500,		1350	
 		Mosin9130_Royale,		*,		3000,		1500	
-        Mosin9130_Royale2,	        *,		3000,		1500	
+      		Mosin9130_Royale2,	        *,		3000,		1500	
 		Massm300,			*,		-1,		10000
 		Airdrops Only Below,		*,		-1,		0
 		m24,				*,		-1,    	        3000	
@@ -430,7 +430,7 @@
 		Mag_STANAGCoupled_30Rnd,	M,		300,		120	
 		Mass762Stanag,			M,		250,		110		
 		Mag_SVD_10Rnd,			M,		220,		110
-		kivaarimag,				M,		250,		115
+		kivaarimag,			M,		250,		115
 		Scout556mag,			M,		300,		150
 		Massm300mag,			M,		500,		250
 		mag_m14_20rnd,			M,		250,		115
