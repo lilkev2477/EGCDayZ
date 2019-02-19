@@ -341,7 +341,8 @@
 		gp_AKs74U,			*,		2500,		1350
 		gp_AK74,			*,		2500,		1350	
 		MassPpskn,			*,		4000,		2000
-		gp_AK101,			*,		2500,		1350								G36, 				*,		2500,		1350						
+		gp_AK101,			*,		2500,		1350								
+		G36, 				*,		2500,		1350						
 		GP_Fal,				*,		3000,		1500
 		gp_AugSteyr,			*,		2500,		1350	
 		gp_M249,			*,		5000,		2500			
@@ -365,7 +366,7 @@
 		gp_Scout,			*,		2500,		1350
 		MassScout556,			*,		2500,		1350	
 		Mosin9130_Royale,		*,		3000,		1500	
-                Mosin9130_Royale2,	        *,		3000,		1500	
+        Mosin9130_Royale2,	        *,		3000,		1500	
 		Massm300,			*,		-1,		10000
 		Airdrops Only Below,		*,		-1,		0
 		m24,				*,		-1,    	        3000	
@@ -429,7 +430,9 @@
 		Mag_STANAGCoupled_30Rnd,	M,		300,		120	
 		Mass762Stanag,			M,		250,		110		
 		Mag_SVD_10Rnd,			M,		220,		110
-		kivaarimag,			M,		250,		115
+		kivaarimag,				M,		250,		115
+		Scout556mag,			M,		300,		150
+		Massm300mag,			M,		500,		250
 		mag_m14_20rnd,			M,		250,		115
 		Mag_DE_9Rnd,			M,		250,		125
 		Mag_FAL_20Rnd,			M,		250,		125
