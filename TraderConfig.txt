@@ -1445,8 +1445,69 @@
 		MAC10_desert			*,
 		CBJ				*,
 		PP19_01				*,
-
-			
-
+		
+	<Category> Rifles
+		M1Carbine			*,
+		K_98				*,
+		FP4_WIN70			*,
+		FP4_WIN70_black			*,
+		FP4_WIN70_green			*,
+		svt40				*,
+		
+	<Category> Sniper Rifles
+		VSK94
+		SVD_1963
+		Vintorez_veteran
+		Vintorez
+		Vintorez_Old
+		R700
+		PSG1
+		
+	<Category> Anti-materiel
+		m82
+		m82_308win
+		
+	<Category> Magazines
+		Mag_M1_15Rnds
+		Mag_rpk_40Rnd_Tracers
+		Mag_rpk_40RndSpar_Tracer
+		Mag_val_20Rnd_coupled_Tracer
+		Mag_tokarev_8Rnd
+		Mag_CS5_10rnd
+		Mag_FP4_AK101_30Rnd 
+		Mag_MakarovPB_8Rnd - (standart game class)
+		Mag_VSK94_20Rnd
+		Mag_DDM_30Rnd (+M4A1 magazines)
+		Mag_rpk_40RndSpar
+		Mag_val_20Rnd_coupled
+		Mag_vss_10Rnds_coupled
+		Mag_GSH18_18Rnd
+		Mag_m1935_13Rnd
+		Mag_sg550_30Rnd
+		mag_p220_8rnd
+		Mag_SR2_30Rnd
+		Mag_AK74UM_30Rnd
+		Mag_mac10_30Rnd
+		Mag_m82_10Rnd -(.50сal)
+		Mag_m82_10Rnd308
+		Mag_CBJ_20Rnd
+		Mag_CBJ_30Rnd
+		Mag_CBJ_50Rnd
+		Mag_Nailgun_50n
+		Mag_psg_5Rnd
+		Mag_SR1M_18Rnd
+		Mag_RPK_40Rnd
+		mag_svt_10rnd
+		mag_kac_30rnd
+		Mag_glock_18_17Rnd
+		Mag_1911_7Rnd					
+		Mag_ace23_30rnd
+		Mag_sg552_30Rnd
+		Mag_pp19_30Rnd
+		Mag_m9_15Rnd
+		Mag_Scar_20rnd
+		Mag_VAL_20Rnd
+		mag_vss_10rnds
+		Mag_pp99_16Rnd
 		
 <FileEnd>												// This has to be on the End of this File and is very importand!
