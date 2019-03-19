@@ -464,6 +464,7 @@
 		AK_WoodHndgrd,			*,		200,		100
 		M4_PlasticHndgrd,		*,		150,		75
 		M4_RISHndgrd,			*,		200,		100
+		M4_MPHndgrd,			*,		200,		100
 		M249_Hndgrd,			*,		200,		100
 		M249_RisHndgrd,			*,		300,		150
 		
