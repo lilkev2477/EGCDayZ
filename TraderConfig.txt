@@ -1510,4 +1510,75 @@
 		mag_vss_10rnds			*,
 		Mag_pp99_16Rnd			*,
 		
+	<Category> Ammunition	
+		Ammo_12x99			1,
+		Ammo_12x99Tracer_Green 		1,
+		Ammo_12x99Tracer_Yell 		1,
+		Ammo_nails (nailgun)		1,
+		Ammo_762x25 (Tokarev pistol)	1,
+		Ammo_762x33 (.50 carbine)	1,
+		Ammo_792x57 (k98)		1,
+		Ammo_9x39Tracer			1,
+		Ammo_nails			1,
+		AmmoBox_12x99_10Rnd_TracerGreen	*,
+		AmmoBox_12x99_10Rnd_TracerYell	*,
+		AmmoBox_762x25_25Rnd		*,
+		AmmoBox_762x33_20Rnd		*,
+		AmmoBox_792x57_25Rnd		*,
+		AmmoBox_9x39_20Rnd_Tracer	*,
+		AmmoBox_12x99_10Rnd		*,
+		Ammo_22,			1,		1,		0	
+		Ammo_380,			1,		1,		0
+		Ammo_9x19,			1,		1,		0
+		Ammo_9x39,			1,		1,		0		
+		Ammo_45ACP,			1,		1,		0
+		Ammo_357,			1,		1,		0
+		Ammo_12GaBB,          		1,		3,		1
+		Ammo_12gaPellets,		1,		3,		1
+		Ammo_12gaSlug,			1,		4,		2
+		Ammo_556x45,			1,		5,		3
+		Ammo_762x39,			1,		5,		3
+		Ammo_762x54,			1,		10,		6
+		Ammo_303,			1,		15,		7
+		Ammo_308win,			1,		20,		10		
+		Ammo_338,			1,		20,		10		
+		Ammo_408Chey,			1,		100,		50		
+		AmmoBox_380_35rnd,		*,		28,		0
+		AmmoBox_9x19_25rnd,		*,		20,		0
+		AmmoBox_45ACP_25rnd,		*,		20,		0
+		AmmoBox_12gaBB,	        	*,		24,		10
+		AmmoBox_00buck_10rnd,		*,		24,		10
+		AmmoBox_12gaSlug_10Rnd,		*,		32,		20
+		AmmoBox_556x45_20Rnd,		*,		80,		60
+		AmmoBox_762x39_20Rnd,		*,		80,		60
+		AmmoBox_762x54_20Rnd,		*,		150,		75
+		AmmoBox_22_50Rnd,		*,		20,		0
+		AmmoBox_357_20Rnd,		*,		100,		50	
+		AmmoBox_303_20Rnd,		*,		250,		125
+		AmmoBox_308win_20Rnd,	        *,		300,		150
+		AmmoBox_308_20Rnd,		*,		300,		150
+		AmmoBox_338,	        	*,		300,		150
+		AmmoBox_9x39_20Rnd,		*,		20,		0
+		AmmoBox_545x39_20Rnd,	        *,		150,		75	
+		Mass762x39_ConversionKit,	*,		1000,		500	
+		Mass556x45_ConversionKit,	*,		1000,		500
+		AmmoBox_408Chey,	        *,		2000,		1000	
+		
+	<Category> Suppressors 	
+		556_Suppressor			*,
+		pbs1_Suppressor			*,
+		Tundra_Suppressor		*,
+		HX762_Suppressor		*,
+		PBS4_Suppressor			*,
+		
+	<Category> Optic 	
+		FalconOptic 			*,
+		PN23Optic 			*,
+		
+	<Category> Accessories
+		AK_Wood_insulating_Hndgrd	*,
+		AK_WoodSteel_Hndgrd		*,
+
+	<Cataegory> Melee
+		Tomahawk			*,
 <FileEnd>												// This has to be on the End of this File and is very importand!
