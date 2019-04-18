@@ -265,7 +265,7 @@
 		gp_DE,				*,		1000,           500 
 	   	
 	<Category> Shotguns
-	        //gp_shotgunlzh43,		*,		500,		250	//Not spawning 
+	        gp_izh43new,			*,		500,		250	//Not spawning 
 		Mp133Shotgun,			*,		750,		350
 		Massarmsan,		        *,		1000,		450
 		gp_Saiga12kShotgun,		*,		1500,		650		
@@ -274,6 +274,7 @@
 	<Category> Submachine Guns
 		CZ61,				*,		700,		300
 		UMP45,				*,		800,		350
+		MassPPSH41			*,		1000,		450
 		MP5K,				*,		1000,		450		
 		gp_miniuzi,			*,		1100,		500		
 		Mac10,				*,		1100,		500	
@@ -352,8 +353,10 @@
 		
 	<Category> DMR
 		gp_Trumpet,			*,		100,		50
+		MassSVT40,			*,		2000,		1000	
 		SVD,				*,		2000,		1000
 		gp_VSS,				*,		2500,		1350
+		MassM110,			*,		2500,		1350
 		MassKivaari,			*,		3000,		1500
 		Airdrops Only Below,		*,		-1,		0
 		m14,				*,		-1,		3000	
@@ -456,12 +459,16 @@
 		Mag_M249_Box200Rnd,		M,		350,		150
 		Mag_308winSnapLoader_2Rnd,	M,		250,		125
 		Mag_12gaSnaploader_2Rnd,	M,		250,		125
-		Mag_1911_7Rnd,			M,		200,		125														
+		Mag_1911_7Rnd,			M,		40,		20
+		Massppshdrum,			M,		400,		200
+		Massppshbox,			M,		250,		125
+		MassSVTmag,			M,		400,		200
 		
 	<Category> Handguards
 		MP5_PlasticHndgrd,		*,		100,		50
 		MP5_RailHndgrd,			*,		150,		75
 		AK_WoodHndgrd,			*,		200,		100
+		AK_RailHndgrd,			*,		200,		100
 		M4_PlasticHndgrd,		*,		150,		75
 		M4_RISHndgrd,			*,		200,		100
 		M4_MPHndgrd,			*,		200,		100
@@ -474,6 +481,8 @@
 		AK_WoodBttstck,			*,		150,		75
 		AK_FoldingBttstck,		*,		200,		125
 		M4_OEBttstck,			*,		150,		75
+		M4_CQBttstck,			*,		150,		75
+		M4_MPBttstck,			*,		150,		75
 		Saiga_Bttstck,			*,		150,		75
 		Fal_FoldingBttstck,		*,		200,		100
 		Fal_OeBttstck,			*,		200,		100
@@ -830,9 +839,12 @@
 		UKAssVest_Khaki,		*,		90,		30
 		UKAssVest_Olive,		*,		90,		30
 		UKAssVest_Camo,			*,		100,		35
-		MassSmershvest,			*,		200,		100
+		MassUKAssVestWinter,		*,		100,		35
+		MassSmershvestcomplete,		*,		200,		100
 		SmershVest,			*,		150,		50
-		MassSmersh,			*,		200,		100
+		MassSmershvestWintercomplete,	*,		200,		100
+		MassSmershvestWW2complete,	*,		200,		100
+		MassSmershvestblackcomplete,	*,		200,		100
 		HighCapacityVest_Black,		*,		200,		60
 		HighCapacityVest_Olive,		*,		230,		75
 		Masswoodlandcamovest,		*,		250,		100
@@ -858,11 +870,22 @@
         HighCapacityVest_Camo18,		*,		300,		150	
         HighCapacityVest_Camo19,		*,		300,		150	
         HighCapacityVest_Camo20,		*,		300,		150	
-        HighCapacityVest_Camo21,		*,		300,		150			
-		PlateCarrierVest,		*,		250,		80
+        HighCapacityVest_Camo21,		*,		300,		150
+	Masswoodlandcamovest			*,		500,		250
+		PlateCarrierVest,		*,	       1000,		500
+		MassPlateCarrier_PartizanM,	*,	       1000,		500
+		MassPlateCarrier_Black,		*,             1000,		500
+		MassPlateCarrier_Winter,	*,	       1000,		500
+		MassPlateCarrier_ODG,		*,	       1000,		500
+		MassHeavyPlateVest_ODG,		*,		 -1,		5000
+		MassHeavyPlateVest_Winter,	*,		 -1,		5000
+		MassHeavyPlateVest_Black,	*,		 -1,		5000
+		MassHeavyPlateVest_PartizanM,	*,		 -1,		5000
+		MassHeavyPlateVest_Beige,	*,		 -1,		5000
+
 
 	<Category> Tool Belt
-		MassToolbelt,			*,		1000,		500	
+		MassToolbelt,			*,	       1000,		500	
 
 	<Category> Jackets & Coats
 		LabCoat,			*,		10,		2				
@@ -1225,6 +1248,14 @@
 		ChestHolster,			*,		60,		20
 		PlateCarrierHolster,		*,		60,		20
 		PlateCarrierPouches,		*,		100,		20
+		MassPlateCarrierHolster_Black,	*,		100,		20
+		MassPlateCarrierHolster_PartizanM, *,		100,		20
+		MassPlateCarrierHolster_Winter,	*,		100,		20
+		MassPlateCarrierHolster_ODG,	*,		100,		20
+		MassPlateCarrierPouches_Balck,	*,		100,		20
+		MassPlateCarrierPouches_PratizanM,	*,		100,		20
+		MassPlateCarrierPouches_Winter,	*,		100,		20
+		MassPlateCarrierPouches_ODG,	*,		100,		20
 		
 	<Category> Bags
 		ChildBag_Red,			*,		20,		5
@@ -1333,14 +1364,11 @@
 <Trader> Vehicles Trader
 	<Category> Vehicles
 		OffroadHatchback,		V,		10000,		5000
+		CivilianSedan,			V,		15000,		7500		
 		//V3S_Chassis,			V,		20000,		10000		Not working Need to fix 
-		dbojeepB,			V,			30000,		15000
-		--------------------------------------------,	V,	0,	0
-		The Buhanka parts are not yet persistent,	 V, 	0,  	0
-		..But the vehicle itself is,	V,		0,		0
-		...Consider storing the parts unattached until a fix,	V,		0,		0
-		uaz_car_sobakenl,	V,			15000,		7500
-		--------------------------------------------,	V,	0,	0
+		dbojeepB,			V,		30000,		15000
+		buggy_car_sobakenl,		V,		25000,		12500	
+		
 		
 	<Category> Vehicle Parts
 		HeadlightH7_Box,		*,		30,		15
