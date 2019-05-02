@@ -274,7 +274,7 @@
 	<Category> Submachine Guns
 		CZ61,				*,		700,		300
 		UMP45,				*,		800,		350
-		MassPPSH41			*,		1000,		450
+		MassPPSH41,			*,		1000,		450
 		MP5K,				*,		1000,		450		
 		gp_miniuzi,			*,		1100,		500		
 		Mac10,				*,		1100,		500	
@@ -342,7 +342,7 @@
 		gp_AKs74U,			*,		2500,		1350
 		gp_AK74,			*,		2500,		1350	
 		MassPpskn,			*,		4000,		2000
-		gp_AK101,			*,		2500,		1350								
+		gp_AK101,			*,		2500,		1350						
 		G36, 				*,		2500,		1350						
 		GP_Fal,				*,		3000,		1500
 		gp_AugSteyr,			*,		2500,		1350	
@@ -871,7 +871,7 @@
         HighCapacityVest_Camo19,		*,		300,		150	
         HighCapacityVest_Camo20,		*,		300,		150	
         HighCapacityVest_Camo21,		*,		300,		150
-	Masswoodlandcamovest			*,		500,		250
+	Masswoodlandcamovest,			*,		500,		250
 		PlateCarrierVest,		*,	       1000,		500
 		MassPlateCarrier_PartizanM,	*,	       1000,		500
 		MassPlateCarrier_Black,		*,             1000,		500
